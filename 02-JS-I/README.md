@@ -345,7 +345,40 @@ Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Pr
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=02-JS-I">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        no entiendo este punto. 
+        function tienenMismaLongitud(str1, str2) {
+  // Devuelve "true" si las dos strings tienen la misma longitud
+  // De lo contrario, devuelve "false"
+  // Tu código:
+  return (str1.length===str2.length)
+  por que va 'length' y no pueden ir solo 'str1 o str2'?
+
+  function esPar(num) {
+  // Devuelve "true" si "num" es par
+  // De lo contrario, devuelve "false"
+  // Tu código:
+  if( num % 2 === 0) {
+    return true;
+
+  este ejercicio no me quedo claro tampoco.
+
+  function esPositivo(numero) {
+  //La función va a recibir un entero. Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo. 
+  //Si el número es positivo, devolver ---> "Es positivo"
+  //Si el número es negativo, devolver ---> "Es negativo"
+  //Si el número es 0, devuelve false
+  if(numero === 0) {
+    return false;
+  }
+  else if(numero > 0) {
+    return "Es positivo";
+  }
+  else {
+    return "Es negativo";
+    }
+  }
+
+  este ejercicio no esta claro, hay cosas que aun no an visto..
       </a>
     </td>
   </tr>

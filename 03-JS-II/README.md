@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=03-JS-II">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        interesante la clase, tarde como 3 dias en tratar de comprender la logica mas que nada. los ultimos tres puntos de la tarea no los realizo por que no se aun que es 'array' aun no vi 'doWhile' ni como usar '[]'
       </a>
     </td>
   </tr>
